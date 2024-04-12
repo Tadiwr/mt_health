@@ -9,11 +9,12 @@ import { getAnalytics } from "firebase/analytics";
 const firebaseConfig = {
   apiKey: "AIzaSyAWmXfbiXoWjhJW19OaykDoa4QpUiKS-eE",
   authDomain: "mt-health-4e1e5.firebaseapp.com",
+  databaseURL: "https://mt-health-4e1e5-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "mt-health-4e1e5",
   storageBucket: "mt-health-4e1e5.appspot.com",
   messagingSenderId: "72732959396",
-  appId: "1:72732959396:web:3af9b2ddb3467d086c3c31",
-  measurementId: "G-39VX7M6MN8"
+  appId: "1:72732959396:web:fc80c4d49481990a6c3c31",
+  measurementId: "G-9DBQPGG719"
 };
 
 // Initialize Firebase
